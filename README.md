@@ -7,7 +7,7 @@
 - **Tools:** Git, Docker, VS Code, Power BI
 
 ### 🌱 What I'm Learning
-I'm currently diving into ** Python and Machine Learning** and **Cloud Computing**. Always excited to explore new technologies and grow my skillset!
+I'm currently diving into **Python and Machine Learning** and **Cloud Computing**. Always excited to explore new technologies and grow my skillset!
 
 ### 📫 How to Reach Me
 - 🌐 [Portfolio](https://harryfarmer.github.io/)
