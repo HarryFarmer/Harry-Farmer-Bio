@@ -11,7 +11,7 @@ I'm currently diving into **Python and Machine Learning** and **Cloud Computing*
 
 ### 📫 How to Reach Me
 - 🌐 [Portfolio](https://harryfarmer.github.io/)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/harry-farmer/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/harry-farmer/)
 
 ---
 
