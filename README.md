@@ -10,14 +10,8 @@
 I'm currently diving into ** Python and Machine Learning** and **Cloud Computing**. Always excited to explore new technologies and grow my skillset!
 
 ### 📫 How to Reach Me
-- 🌐 [Portfolio](https://www.yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
-
-### 🎨 Fun Facts
-- 🎮 I'm an avid gamer and love exploring virtual worlds.
-- 🎵 I play the guitar and enjoy jamming with friends.
-- 🌍 I'm passionate about sustainability and environmental conservation.
+- 🌐 [Portfolio](https://harryfarmer.github.io/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/harry-farmer/))
 
 ---
 
